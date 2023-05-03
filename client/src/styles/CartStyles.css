@@ -1,0 +1,83 @@
+.cart-top {
+  padding: 15px !important;
+  /* font-family: "roboto", sans-serif;
+  font-weight: bold; */
+  background-color: rgba(0, 0, 255, 0.072) !important;
+}
+
+.cart-page {
+  padding-left: 4%;
+}
+
+.cart-page .card {
+  background-color: rgba(128, 128, 128, 0.097);
+  width: 18rem;
+}
+
+.cart-page .card-name-price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cart-page .card-title {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.cart-page .card-price {
+  color: green;
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 0;
+}
+
+.cart-page .buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cart-page button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.cart-page .card-text {
+  color: rgb(90, 89, 89);
+  margin-bottom: 0;
+}
+
+.cart-page .card img:hover {
+  transform: scale(0.9);
+}
+
+.cart-page .card-img-top {
+  height: 250px !important;
+}
+
+.cart-summary {
+  text-align: center;
+  padding-right: 4%;
+}
+
+.cart-summary .address {
+  font-weight: bold;
+}
+
+.cart-summary button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 2px;
+  margin-right: 2px;
+}

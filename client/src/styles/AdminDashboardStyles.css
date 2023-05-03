@@ -1,0 +1,57 @@
+.heading {
+  padding: 15px !important;
+  background-color: rgba(0, 0, 255, 0.072) !important;
+  margin-bottom: 0;
+}
+
+.products .card {
+  background-color: rgba(128, 128, 128, 0.097);
+  width: 18rem;
+}
+.products .card-name-price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.products .card-title {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.products .card-price {
+  color: green;
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 0;
+}
+
+.products .buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.products button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.products .card-text {
+  color: rgb(90, 89, 89);
+  margin-bottom: 0;
+}
+
+.products .card img:hover {
+  transform: scale(0.9);
+}
+
+.products .card-img-top {
+  height: 250px !important;
+}
