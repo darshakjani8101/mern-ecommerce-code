@@ -1,3 +1,9 @@
+<div align="center">
+  <br />
+      <img src="https://github.com/darshakjani8101/mern-ecommerce-code/blob/main/client/public/images/banner.png" alt="Project Banner">
+  <br />
+</div>
+
 # MERN E-commerce App
 
 Welcome to our E-commerce project built using the MERN stack! Explore a seamless shopping experience with intuitive UI, secure authentication, and a robust backend. Shop for your favorite products, manage your cart, and checkout with ease.
